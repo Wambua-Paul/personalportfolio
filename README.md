@@ -14,8 +14,7 @@ Welcome to my personal portfolio website! This is a simple and responsive site t
 
 ## 🚀 Live Demo
 
-Check it out here: https://github.com/Wambua-Paul/personalportfolio.git
----
+## Check it out here: https://wambua-paul.github.io/personalportfolio/
 
 ## 🛠️ Technologies Used
 
@@ -23,5 +22,3 @@ Check it out here: https://github.com/Wambua-Paul/personalportfolio.git
 - CSS3
 
 ---
-
-
